@@ -1,6 +1,6 @@
 # Penalty
 
-Prototipo de juego en Bitsy
+Prototipo de juego en Bitsy. Hecho para una materia de la Universidad Nacional de Hurlingham.
 
 ## Concepto
 Para este proyecto, tomamos la iniciativa de programar un juego simple en el que se lleva a
